@@ -7,7 +7,7 @@ namespace ProyectoPrueba
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hola");
+            Console.WriteLine("Hola como estas");
         }
     }
 }

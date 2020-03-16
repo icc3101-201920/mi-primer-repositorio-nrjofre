@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jofre\\Desktop\\git\\mi-primer-repositorio-nrjofre\\ProyectoPrueba\\ProyectoPrueba\\ProyectoPrueba.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\mi-primer-repositorio-nrjofre\\ProyectoPrueba\\ProyectoPrueba\\ProyectoPrueba.csproj",
       "projectName": "ProyectoPrueba",
-      "projectPath": "C:\\Users\\Jofre\\Desktop\\git\\mi-primer-repositorio-nrjofre\\ProyectoPrueba\\ProyectoPrueba\\ProyectoPrueba.csproj",
+      "projectPath": "D:\\Documentos\\GitHub\\mi-primer-repositorio-nrjofre\\ProyectoPrueba\\ProyectoPrueba\\ProyectoPrueba.csproj",
       "packagesPath": "C:\\Users\\Jofre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jofre\\Desktop\\git\\mi-primer-repositorio-nrjofre\\ProyectoPrueba\\ProyectoPrueba\\obj\\",
+      "outputPath": "D:\\Documentos\\GitHub\\mi-primer-repositorio-nrjofre\\ProyectoPrueba\\ProyectoPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jofre\\AppData\\Roaming\\NuGet\\NuGet.Config",
