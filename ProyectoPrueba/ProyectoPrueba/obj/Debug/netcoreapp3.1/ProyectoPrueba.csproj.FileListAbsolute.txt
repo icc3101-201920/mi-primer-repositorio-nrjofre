@@ -1,0 +1,11 @@
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.exe
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.deps.json
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.runtimeconfig.json
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.runtimeconfig.dev.json
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.dll
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.pdb
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.csprojAssemblyReference.cache
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.AssemblyInfoInputs.cache
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.AssemblyInfo.cs
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.dll
+C:\Users\Jofre\Desktop\git\mi-primer-repositorio-nrjofre\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.pdb
